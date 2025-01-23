@@ -4,7 +4,7 @@ Title: Dependencies and data for SOES1017
 Version: 1.0.1
 Author: Tom Ezard, modified by Kevin Oliver
 Maintainer: Kevin Oliver <kio1u08@soton.ac.uk>
-Description: Dependencies and data for SOES1017 Data Literacy and Analysis, a compulsory Part 1 module for School of Ocean and Earth Science students at the University of Southampton.
+Description: Dependencies and data for SOES1017, a compulsory Part 1 module for School of Ocean and Earth Science students at the University of Southampton.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
