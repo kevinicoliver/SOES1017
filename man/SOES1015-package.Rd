@@ -1,12 +1,12 @@
-\name{SOES1015-package}
-\alias{SOES1015-package}
-\alias{SOES1015}
+\name{SOES1017-package}
+\alias{SOES1017-package}
+\alias{SOES1017}
 \keyword{package}
 
 \docType{package}
-\title{Supporting material for SOES1015}
+\title{Supporting material for SOES1017}
 \description{
-Datasets and dependencies for SOES1015 Statistical Computing in Marine Sciences, a 1st year module in Ocean and Earth Sciences at the University of Southampton. The datasets are available online, either through R or elsewhere as published material that accompanies the manuscripts. I will add help files describing the metadata in due course (see the relevant practical session on Blackboard), but don't hesitate to contact me if you require the accompanying metadata before that happens.
+Datasets and dependencies for SOES1017, a 1st year module in Ocean and Earth Sciences at the University of Southampton. The datasets are available online, either through R or elsewhere as published material that accompanies the manuscripts. I will add help files describing the metadata in due course (see the relevant practical session on Blackboard), but don't hesitate to contact me if you require the accompanying metadata before that happens.
 }
 \details{
 \tabular{ll}{
@@ -19,7 +19,7 @@ LazyLoad: \tab yes\cr
 }
 }
 \author{
-Thomas Ezard
+Thomas Ezard, modified by Kevin Oliver
 
-Maintainer: Thomas Ezard \email{t.ezard@soton.ac.uk}
+Maintainer: Kevin Oliver \email{kio1u08@soton.ac.uk}
 }
